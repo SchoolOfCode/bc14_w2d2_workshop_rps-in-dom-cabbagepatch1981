@@ -8,8 +8,10 @@ Following on from last week's hackathon, we want to refactor our rock, paper, sc
 
 For this task, navigate to ChatGPT. Ask it to generate the HTML, JavaScript, and CSS code for a basic rock, paper, scissors game, and copy and paste the code into the empty `index.html`, `main.js`, and `style.css` files in this repository.
 
-- Run the game in the browser. Does it work?
+- Run the game in the browser. Does it work? 🍏
+
 - Now spend time reading through the code line by line, and write your own comments after each line to help break down and explain what each line is doing. Reading and understanding existing code is a key skill for developers, so take your time to fully understand how it works. If there's something you don't recognize or understand, you can ask ChatGPT to explain that part specifically, or you can Google.
+
   - Identify the JavaScript fundamentals we've covered in the course so far. How is the code using variables, arrays, objects, functions, etc.?
   - Identify how the code interacts with and manipulates the DOM. How does it use the methods we've learned already? Are there any methods it uses that we didn't cover in class? If so, Google them!
 - Is there anything you would change about the code generated?
