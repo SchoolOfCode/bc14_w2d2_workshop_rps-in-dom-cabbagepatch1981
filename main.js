@@ -63,6 +63,9 @@ function computerPlay() {
 // it will randomly select one of the three options
 // the selected choice is returned as the output of the function
 
+// nb. when the computerPlay function is called, it returns a random choice for the computer to play in the game. 
+// This choice is later used in the game logic to determine the outcome of each round.
+
 // --------------------
 
 
@@ -81,9 +84,18 @@ function playRound(playerSelection, computerSelection) {
 }
 
 //////// declared function playRound()
-
-
-
+// the playRound function takes two parameters (playerSelection and computerSelection)
+// and if / else if statement is created 
+// --> if parameter input for playerSelection is strictly equal to parameter input for computerSelection 
+// --> return "Draw" 
+// --> else if parameter input for playerSelection is Rock and parameter input for computerSelection is Scissors
+// --> or 
+// --> if parameter input for playerSelection is Paper and parameter input for computerSelection is Rock 
+// --> or 
+// --> if parameter input for playerSelection is Scissors and parameter input for computerSelection is Paper 
+// --> return "Player"
+// --> else 
+// --> return "Computer"
 
 // --------------------
 
