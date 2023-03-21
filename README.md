@@ -6,7 +6,7 @@ Following on from last week's hackathon, we want to refactor our rock, paper, sc
 
 ## Basic game
 
-For this task, navigate to ChatGPT. Ask it to generate the HTML, JavaScript, and CSS code for a basic rock, paper, scissors game, and copy and paste the code into the empty `index.html`, `main.js`, and `style.css` files in this repository.
+For this task, navigate to ChatGPT. Ask it to generate the HTML, JavaScript, and CSS code for a basic rock, paper, scissors game, and copy and paste the code into the empty `index.html`, `main.js`, and `style.css` files in this repository. 🍏
 
 - Run the game in the browser. Does it work? 🍏
 
